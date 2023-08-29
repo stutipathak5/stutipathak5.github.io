@@ -5,7 +5,7 @@
     <link>https://stutipathak5.github.io/tag/demo/</link>
       <atom:link href="https://stutipathak5.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stutipathak5.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>Machine Learning Assisted System Identification of a Composite Plate</title>
+      <link>https://stutipathak5.github.io/project/external-project-copy-2/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://stutipathak5.github.io/project/external-project-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Structure from Dynamics using Neural Networks</title>
       <link>https://stutipathak5.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://stutipathak5.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rumour Analysis using Twitter Mention Network</title>
+      <link>https://stutipathak5.github.io/project/external-project-copy/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://stutipathak5.github.io/project/external-project-copy/</guid>
       <description></description>
     </item>
     
