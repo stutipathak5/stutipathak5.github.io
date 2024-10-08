@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>How to turn your camera into a perfect pinhole model</title>
-      <link>https://stutipathak5.github.io/publication/conference-paper-copy/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://stutipathak5.github.io/publication/conference-paper-copy/</guid>
+      <title>GP-PCS: One-shot Feature-Preserving Point Cloud Simplification with Gaussian Processes on Riemannian Manifolds</title>
+      <link>https://stutipathak5.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://stutipathak5.github.io/publication/conference-paper/</guid>
       <description>&lt;!-- 
 
 
@@ -61,10 +61,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>GP-PCS: One-shot Feature-Preserving Point Cloud Simplification with Gaussian Processes on Riemannian Manifolds</title>
-      <link>https://stutipathak5.github.io/publication/conference-paper/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://stutipathak5.github.io/publication/conference-paper/</guid>
+      <title>How to turn your camera into a perfect pinhole model</title>
+      <link>https://stutipathak5.github.io/publication/conference-paper-copy/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://stutipathak5.github.io/publication/conference-paper-copy/</guid>
       <description>&lt;!-- 
 
 
@@ -296,7 +296,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-265978143&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-148563792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +306,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-265978143&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-148563792&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
